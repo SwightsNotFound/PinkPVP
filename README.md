@@ -1,5 +1,5 @@
 # PinkPVP
-My first Minecraft Bedrock texture pack originally released on (MCPEDL)[https://mcpedl.com/pink-pvp-texture-pack-1/].
+My first Minecraft Bedrock texture pack originally released on [MCPEDL](https://mcpedl.com/pink-pvp-texture-pack-1/).
 
 # Original Description
 
