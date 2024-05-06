@@ -5,7 +5,9 @@ My first Minecraft Bedrock texture pack originally released on MCPEDL.
 
 Hi! Have you ever wanted a pink Diamond texture pack that runs just as good as the plane Minecraft textures! Well, here you go welcome to pink. This is my first texture pack!
 
-Save your time and watch this!
+- Save your time and watch this!
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Y80Ckaw7Zuw/0.jpg)](https://www.youtube.com/watch?v=Y80Ckaw7Zuw)
 
 
 
