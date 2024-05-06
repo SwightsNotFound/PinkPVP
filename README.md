@@ -12,7 +12,7 @@ Save your time and watch this!
 
 
 Tools (there's also a Netherite short sword too)
-![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Tools.jpg?raw=true)
+![alt text]([https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Tools.png]?raw=true)
 
 
 
