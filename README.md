@@ -19,30 +19,31 @@ Tools (there's also a Netherite short sword too)
 
 
 Armor
-
+![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Armor.png?raw=true)
 
 
 
 
 Items (There's a Bow Charge & when you use the fishing rod it turns red)
-
+![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Items.png?raw=true)
 
 
 
 
 Sky 
-
+![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Sky.png?raw=true)
 
 
 (If you know who made this sky comment it as I want to give him or her credit instead of it saying made by Neeh2009YT)
 
 Glass & Wool
-
+![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Glass & Wool.png?raw=true)
 
 
 
 
 Ores
+![alt text](https://github.com/SwightsNotFound/PinkPVP/blob/main/Gallery/Ores.png?raw=true)
 
 
 
